@@ -1,0 +1,4 @@
+the auto_turret.cpp file is the code for the arduino
+the "Auto targeting turret" file should be opened in Visual Studio
+
+The color filtering works best if the red object is the best lit thing in frame
